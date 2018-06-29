@@ -10,7 +10,7 @@ function whisper(string) {
 
 // 3. logShout(string) calls console.log() its one argument in all caps
 function logShout(string) {
-  
+  return string.console.log()
 }
 
 // 4. logWhisper(string) calls console.log() its one argument in all lowercase
