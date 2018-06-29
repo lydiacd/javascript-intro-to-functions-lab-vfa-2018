@@ -29,7 +29,7 @@ function sayHiToGrandma(string) {
     text ="YES INDEED!";
   }
   if (string === "I love you, Grandma.") {
-    var text ="I love you, too.";
+    text ="I love you, too.";
   }
   return text ;
 }
