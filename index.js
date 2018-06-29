@@ -9,4 +9,4 @@ function shout(string) {
 
 // 4. logWhisper(string) calls console.log() its one argument in all lowercase
 
-// 5. 
+// 5. sayHiToGrandma(string) 
